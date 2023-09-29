@@ -29,9 +29,6 @@
   <li><a href="https://github.com/joaovtk/py-becca">E minha bot do discord a becca</a></li>
 </ul>
 
-# Teste de widgets
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-
 # O fim ou não...
 <p>Irei adicionar items a cada atualização então espere por mais e bye</p>
 <img src="https://i.pinimg.com/originals/c5/44/fa/c544fac358589c8374a588cda0a1317c.gif" alt="Adios Amigo" />
