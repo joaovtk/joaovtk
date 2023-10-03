@@ -26,7 +26,7 @@
   <li><a href="https://github.com/joaovtk/js-simple-calc">Minha simples calculadora, um dos primeiros projetos que postei no github</a></li>
   <li><a href="https://github.com/joaovtk/virtual-keyboard">Meu teclado virtual</a></li>
   <li><a href="https://github.com/joaovtk/pomodoro">Meu timer de pomodoro</a></li>
-  <li><a href="https://github.com/joaovtk/py-becca">E minha bot do discord a becca</a></li>
+  <li><a href="https://github.com/joaovtk/imBecca">E minha bot do discord a becca</a></li>
 </ul>
 
 # O fim ou não...
