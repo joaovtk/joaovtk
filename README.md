@@ -28,10 +28,13 @@
   <li><a href="https://github.com/joaovtk/pomodoro">Meu timer de pomodoro</a></li>
   <li><a href="https://github.com/joaovtk/imBecca">E minha bot do discord a becca</a></li>
 </ul>
+
 # Meios de contato
+
 - Email: joaovitorsoaresdosreis3@gmail.com
 - Discord: @GoiabaTk
 - Twitter: @hito_tk
+
 # O fim ou não...
 <p>Irei adicionar items a cada atualização então espere por mais e bye</p>
 <img src="https://i.pinimg.com/originals/c5/44/fa/c544fac358589c8374a588cda0a1317c.gif" alt="Adios Amigo" />
