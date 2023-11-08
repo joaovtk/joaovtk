@@ -53,7 +53,7 @@
 
 - Email: joaovitorsoaresdosreis3@gmail.com
 - Discord: @GoiabaTk
-- Twitter: @hito_tk
+- Twitter: <a href="https://twitter.com/hito_tk">hito_tk</a>
 - Linkedin <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-dos-reis-6b400b298/">João Vitor Soares dos Reis</a>
 
 # O fim ou não...
