@@ -30,9 +30,9 @@
 </ul>
 
 # Formações
-<p>Cursando: Desenvolvimento de sistemas </p>
-<p>Cursando: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
-<p>Desejando: Cursar Engenharia de Software ou Computação</p>
+<p><strong>Cursando</strong>: Desenvolvimento de sistemas </p>
+<p><strong>Cursando</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
+<p><strong>Desejando</strong>: Cursar Engenharia de Software ou Computação</p>
 
 # Meios de contato
 
