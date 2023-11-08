@@ -2,9 +2,9 @@
 <p>Sou o João Vitor, Vitor, Goiaba, TkHito, muitos nomes né mas o que importa que é sou dev igual a você...</p>
 <p>Tenho 18 anos até a data de edição, programo desde os 13 anos então são 5 anos de experiencia como dev, Porém não paro de estudar pois o mercado muda bastate, e gosto de sempre estar atualizado</p>
 
-<p>Tenho sonho de trabalhar com progração</p>
-<p>Minha área de atuação é backend e as vezes frontend</p>
-<p>As lingugens que já programei, muitas delas eu não aprofundei tanto</p>
+<p>Tenho sonho de trabalhar com progração.</p>
+<p>Minha área de atuação é backend e as vezes frontend.</p>
+<p>As lingugens que já programei, muitas delas eu não aprofundei tanto.</p>
 <ul>
   <li><strong>Javascript/Typescript</strong>, A primeira linguagem que tive contato que uso até hoje extremamente popular no mercado</li>
   <li><strong>Python</strong>, A linguagem que mais estudei no curso</li>
@@ -17,7 +17,7 @@
 
 # Segue aqui meu status atual
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<p>Meu Objetivo é ter uma classificação A ou B</p>
+<p>Meu Objetivo é ter uma classificação A ou B.</p>
 
 # Segue aqui as linguagens que eu mais uso
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovtk&show_icons=true&locale=pt-br&layout=compact&theme=chartreuse-dark" alt="ovi" />
@@ -31,7 +31,7 @@
 </ul>
 
 # Formações
-<p><strong>Cursando</strong>: Desenvolvimento de sistemas </p>
+<p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
 <p><strong>Cursando</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Desejando</strong>: Cursar Engenharia de Software ou Computação</p>
 
@@ -43,5 +43,5 @@
 - Linkedin <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-dos-reis-6b400b298/">João Vitor Soares dos Reis</a>
 
 # O fim ou não...
-<p>Eu irei adicionar mais coisas ao longo dos anos porém isso é tudo</p>
+<p>Eu irei adicionar mais coisas ao longo dos anos porém isso é tudo.</p>
 <img src="https://i.pinimg.com/originals/c5/44/fa/c544fac358589c8374a588cda0a1317c.gif" alt="Viagem de chichiro bye" />
