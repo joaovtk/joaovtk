@@ -31,7 +31,7 @@
 
 # Formações
 <p>Cursando Desenvolvimento de sistemas </p>
-<p>Cursando 2° grau na escola <a href="https://www.mg.gov.br/instituicao_unidade/escola-estadual-bolivar-tinoco-mineiro">Escola Estadual Bolivar Tinoco Mineiro</a></p>
+<p>Cursando 2° grau na escola Escola Estadual Bolivar Tinoco Mineiro</p>
 
 # Meios de contato
 
