@@ -6,7 +6,7 @@
 <p>As lingugens que já programei, muitas delas eu não aprofundei tanto</p>
 <ul>
   <li><strong>Javascript/Typescript</strong>, A primeira linguagem que tive contato que uso até hoje extremamente popular no mercado</li>
-  <li><strong>Python</strong>, A linguagem que mais estudei no cursoksks</li>
+  <li><strong>Python</strong>, A linguagem que mais estudei no curso</li>
   <li><strong>c/c++</strong>, Uma lingugem que uso bastante para projetos low level</li>
   <li><strong>Assembly</strong>, Uma linguagem que eu acho que todo programador tem que aprender pelo menos a essência</li>
   <li><strong>Java</strong>, Uma linguagem extremamente difícil, mas perfeita para mim que gosto de desafio</li>
