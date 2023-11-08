@@ -1,8 +1,9 @@
 # Olá pessoas sei que você são ansiosos então me apresentarei rapido...
 <p>Sou o João Vitor, Vitor, Goiaba, TkHito, muitos nomes né mas o que importa que é sou dev igual a você...</p>
-<p>Tenho 18 anos até a data de edição, programo desde os 13 anos então são 5 anos de experiencia como dev, Porém não parou de estudar pois o mercado muda bastate...</p>
+<p>Tenho 18 anos até a data de edição, programo desde os 13 anos então são 5 anos de experiencia como dev, Porém não paro de estudar pois o mercado muda bastate, e gosto de sempre estar atualizado</p>
 
-<p>Tenho o sonho de virar gamedev, mesmo que minha area de atuação seja backend...</p>
+<p>Tenho sonho de trabalhar com progração</p>
+<p>Minha área de atuação é backend e as vezes frontend</p>
 <p>As lingugens que já programei, muitas delas eu não aprofundei tanto</p>
 <ul>
   <li><strong>Javascript/Typescript</strong>, A primeira linguagem que tive contato que uso até hoje extremamente popular no mercado</li>
