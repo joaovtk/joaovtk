@@ -47,7 +47,8 @@
 <p><strong>Desejando</strong>: Cursar Engenharia de Software ou Computação</p>
 
 # Repositorio dos cursos que eu fiz...
-<p></p>
+<p>Ainda em construção</p>
+
 # Meios de contato
 
 - Email: joaovitorsoaresdosreis3@gmail.com
