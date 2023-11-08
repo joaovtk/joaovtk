@@ -5,13 +5,13 @@
 <p>Tenho o sonho de virar gamedev, mesmo que minha area de atuação seja backend...</p>
 <p>As lingugens que já programei, muitas delas eu não aprofundei tanto</p>
 <ul>
-  <li><strong>Javascript/Typescript</strong>, a linguagem que declaro meu amor eterno</li>
-  <li><strong>Python</strong>, minha amante pois sou casado com js ksks</li>
-  <li><strong>c/c++</strong>, amada e odiada por mim</li>
-  <li><strong>Assembly</strong>, deu uma pincelada mas eu gosto do jeito dela</li>
-  <li><strong>Java</strong>, A linguagem que eu devia odiar pois programo em js</li>
+  <li><strong>Javascript/Typescript</strong>, A primeira linguagem que tive contato que uso até hoje extremamente popular no mercado</li>
+  <li><strong>Python</strong>, A linguagem que mais estudei no cursoksks</li>
+  <li><strong>c/c++</strong>, Uma lingugem que uso bastante para projetos low level</li>
+  <li><strong>Assembly</strong>, Uma linguagem que eu acho que todo programador tem que aprender pelo menos a essência</li>
+  <li><strong>Java</strong>, Uma linguagem extremamente difícil, mas perfeita para mim que gosto de desafio</li>
   <li><strong>Ruby</strong>, Uma linguagem que eu achei perfeita</li>
-  <li><strong>C#</strong>, O java da microsoft, brincadeira ksksk</li>
+  <li><strong>C#</strong>, Semelhante a java porém bastante poderosa</li>
 </ul>
 
 # Segue aqui meu status atual
@@ -41,5 +41,5 @@
 - Linkedin <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-dos-reis-6b400b298/">João Vitor Soares dos Reis</a>
 
 # O fim ou não...
-<p>Irei adicionar items a cada atualização então espere por mais e bye</p>
-<img src="https://i.pinimg.com/originals/c5/44/fa/c544fac358589c8374a588cda0a1317c.gif" alt="Adios Amigo" />
+<p>Eu irei adicionar mais coisas ao longo dos anos porém isso é tudo</p>
+<img src="https://i.pinimg.com/originals/c5/44/fa/c544fac358589c8374a588cda0a1317c.gif" alt="Viagem de chichiro bye" />
