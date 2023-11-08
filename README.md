@@ -23,8 +23,8 @@
 
 # Meus projetos
 <ul>
-  <li><strong>Meu primeiro projeto</strong>,<a href="https://github.com/joaovtk/js-simple-calc">Clique aqui para acessar</a></li>
-  <li><strong>Teclado virtual</strong>,<a href="https://github.com/joaovtk/virtual-keyboard">Clique aqui para acessar</a></li>
+  <li><strong>Meu primeiro projeto</strong>, <a href="https://github.com/joaovtk/js-simple-calc">Clique aqui para acessar</a></li>
+  <li><strong>Teclado virtual</strong>, <a href="https://github.com/joaovtk/virtual-keyboard">Clique aqui para acessar</a></li>
   <li><strong>Timer Pomodoro</strong>, <a href="https://github.com/joaovtk/pomodoro">Clique aqui para acessar</a></li>
   <li><strong>Bot do discord</strong>, <a href="https://github.com/joaovtk/imBecca">im</a></li>
 </ul>
