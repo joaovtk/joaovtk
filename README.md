@@ -1,4 +1,4 @@
-<hr/>
+# Time Javascript/Typescript
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*dnbk_d4BSiIJ8ZRdfog8jg.jpeg" />
 
 # Olá pessoas sei que você são ansiosos então me apresentarei rapido...
