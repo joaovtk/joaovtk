@@ -25,6 +25,7 @@
 # Segue aqui meu status atual...
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <p>Meu Objetivo é ter uma classificação A ou B.</p>
+
 # E aqui estão os dias que eu dei commit ou steak...
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovtk&theme=tokyonight" alt="mystreak"/>
 
