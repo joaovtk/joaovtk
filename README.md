@@ -1,4 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*dnbk_d4BSiIJ8ZRdfog8jg.jpeg" />
+<img alt="followers" title="me siga no github por favor" src="https://img.shields.io/github/followers/joaovtk?color=236ad3&style=for-the-badge&logo=github&label=Me siga no github" style="display: inline;" />
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+
 
 # Olá pessoas sei que você são ansiosos então me apresentarei rapido...
 <p>Sou o João Vitor, Vitor, Goiaba, TkHito, muitos nomes né mas o que importa que é sou dev igual a você...</p>
@@ -49,3 +52,4 @@
 # O fim ou não...
 <p>Eu irei adicionar mais coisas ao longo dos anos porém isso é tudo.</p>
 <img src="https://i.pinimg.com/originals/c5/44/fa/c544fac358589c8374a588cda0a1317c.gif" alt="Viagem de chichiro bye" />
+
