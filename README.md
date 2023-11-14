@@ -35,7 +35,9 @@
 <p><strong>Desejando</strong>: Cursar Engenharia de Software ou Computação</p>
 
 # Repositorio dos cursos que eu fiz...
-<p>Ainda em construção</p>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-python)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-database)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-frontend)](https://github.com/madushadhanushka/differ)
 
 # Meios de contato
 
