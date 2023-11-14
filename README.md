@@ -16,18 +16,8 @@
 </ul>
 
 # Todas as tecnologias que eu sei...
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" style="width: 50px;"></a>
-<a href="https://www.typescriptlang.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style="width: 50px;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" style="width: 50px;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://i.ibb.co/0MFgxMv/html-icon.png" style="width: 50px;"></a>
-<a href="https://www.vim.org/docs.php"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png?20100125062842" style="width: 50px;"></a>
-<a href="https://neovim.io/doc/"><img src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png" style="width: 50px;"></a>
-<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 50px;"></a>
-<a href="https://www.python.org/"><img src="https://static-00.iconduck.com/assets.00/python-icon-512x512-48og66bp.png" style="width: 50px;"></a>
-<a href="https://www.jetbrains.com/pt-br/pycharm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" style="width: 50px;"></a>
-<a href="https://insomnia.rest/"><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png"  style="width: 50px;"></a>
-<a href="https://nodejs.org/en"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="width: 50px;"></a>
-<a href=""></a>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,cpp,bash,json,mysql,powershell,lua,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=express)](https://github.com/Jurredr/github-widgetbox)
 
 # Segue aqui meu status atual...
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
