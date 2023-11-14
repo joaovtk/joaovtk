@@ -20,6 +20,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=express&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=jquery&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,mongodb,vercel,nodejs,jupyter&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
 
 # Segue aqui meu status atual...
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
