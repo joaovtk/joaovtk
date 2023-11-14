@@ -25,17 +25,8 @@
 # Segue aqui meu status atual...
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <p>Meu Objetivo é ter uma classificação A ou B.</p>
-
-# Segue aqui as linguagens que eu mais uso...
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovtk&show_icons=true&locale=pt-br&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-# Meus projetos...
-<ul>
-  <li><strong>Meu primeiro projeto</strong>, <a href="https://github.com/joaovtk/js-simple-calc">Clique aqui para acessar</a></li>
-  <li><strong>Teclado virtual</strong>, <a href="https://github.com/joaovtk/virtual-keyboard">Clique aqui para acessar</a></li>
-  <li><strong>Timer Pomodoro</strong>, <a href="https://github.com/joaovtk/pomodoro">Clique aqui para acessar</a></li>
-  <li><strong>Bot do discord</strong>, <a href="https://github.com/joaovtk/imBecca">Clique aqui para acessar</a></li>
-</ul>
+# E aqui estão os dias que eu dei commit ou steak...
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovtk&theme=tokyonight" alt="mystreak"/>
 
 # Formações...
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
