@@ -25,6 +25,7 @@
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="width: 50px;"></a>
 <a href="https://www.python.org/"><img src="https://static-00.iconduck.com/assets.00/python-icon-512x512-48og66bp.png" style="width: 50px;"></a>
 <a href="https://www.jetbrains.com/pt-br/pycharm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" style="width: 50px;"></a>
+<a href="https://insomnia.rest/" style="width: 50px;"><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png"></a>
 
 # Segue aqui meu status atual...
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
