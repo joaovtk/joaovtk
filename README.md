@@ -16,7 +16,7 @@
 </ul>
 
 # Todas as tecnologias que eu sei...
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" style="width: 50px;"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" style="width: 50px;" alt="Javascript"></a>
 <a href="https://www.typescriptlang.org/docs/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" style="width: 50px;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" style="width: 50px;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://i.ibb.co/0MFgxMv/html-icon.png" style="width: 50px;"></a>
