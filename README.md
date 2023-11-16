@@ -47,8 +47,3 @@
 - Discord: @GoiabaTk
 - Twitter: <a href="https://twitter.com/hito_tk">hito_tk</a>
 - Linkedin <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-dos-reis-6b400b298/">João Vitor Soares dos Reis</a>
-
-# O fim ou não...
-<p>Eu irei adicionar mais coisas ao longo dos anos porém isso é tudo.</p>
-<img src="https://i.pinimg.com/originals/c5/44/fa/c544fac358589c8374a588cda0a1317c.gif" alt="Viagem de chichiro bye" />
-
