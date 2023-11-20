@@ -36,11 +36,6 @@
 <p><strong>Cursando</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Desejando</strong>: Cursar Engenharia de Software ou Computação</p>
 
-# Repositorio dos cursos que eu fiz...
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-python)](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-python))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-database)]([https://github.com/madushadhanushka/differ](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-database))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-frontend)]([https://github.com/madushadhanushka/differ](https://github-readme-stats.vercel.app/api/pin/?username=joaovtk&repo=proz-course-frontend))
-
 # Meios de contato
 
 - Email: joaovitorsoaresdosreis3@gmail.com
