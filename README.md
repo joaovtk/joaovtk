@@ -19,8 +19,10 @@
   <li><strong>Ruby</strong>, Uma linguagem que eu achei perfeita</li>
   <li><strong>C#</strong>, Semelhante a java porém bastante poderosa</li>
 </ul>
+
 # Quais linguagens eu estou focando ?
 <p>Atualmente pretendo estudar c# para complementar minha carreira de web para depois me aprofundar em assembly ou cobol para me divertir um pouco</p>
+<p>No meu dia a dia eu uso javascript e python para programar sem contar de html e css, uso bastante nodejs com o yarn porque os dois são perfeitos e eu sou uma pessoa que usa typescript no back</p>
 
 # Formações...
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
