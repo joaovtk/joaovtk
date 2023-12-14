@@ -29,11 +29,11 @@
 <p><strong>Android Studio</strong>: Ela é extremamente importante para fazer apps mobile para android</p>
 
 # Formações...
+<p><strong>Completo</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
-<p><strong>Cursando</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Desejando</strong>: Cursar Engenharia de Software ou Computação</p>
 
-# Meios de contato
+# Meios de contato...
 - Email: joaovitorsoaresdosreis3@gmail.com
 - Discord: @GoiabaTk
 - Twitter: <a href="https://twitter.com/hito_tk">hito_tk</a>
