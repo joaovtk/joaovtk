@@ -20,12 +20,13 @@
 </ul>
 
 # Quais linguagens eu estou focando ?
-<p><strong>C#</strong>: Atualmente pretendo estudar c# para complementar minha carreira de web para depois me aprofundar em assembly ou cobol para me divertir um pouco</p>
+<p><strong>Java ou kotlin</strong>: Pretendo entrar no mercado mobile</p>
 <p><strong>Low Level</strong>: Pretendo estudar assembly ou cobol porque eu quero aprender uma linguagem low level, passar pela experiencia que os antigos programadores passavam</p>
 
 # Quais tecnologias pretendo focar ?
 <p><strong>Terraform</strong>: Pretendo estudar terraform pois estou curioso para conhecer essa ferramenta</p>
 <p><strong>Docker</strong>: Ouvi muito falar dela e pretendo dar uma olhada de como se usar ela</p>
+<p><strong>Android Studio</strong>: Ela é extremamente importante para fazer apps mobile para android</p>
 
 # Formações...
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
