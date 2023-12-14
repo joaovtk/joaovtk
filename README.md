@@ -31,7 +31,7 @@
 # Formações...
 <p><strong>Completo</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
-<p><strong>Desejando</strong>: Cursar Engenharia de Software ou Computação</p>
+<p><strong>Desejando</strong>: Cursar da Computação</p>
 
 # Meios de contato...
 - Email: joaovitorsoaresdosreis3@gmail.com
