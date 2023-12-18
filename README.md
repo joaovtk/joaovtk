@@ -20,13 +20,17 @@
 </ul>
 
 # Quais linguagens eu estou focando ?
-<p><strong>Java ou kotlin</strong>: Pretendo entrar no mercado mobile</p>
+<p><strong>Javascript/Typescript</strong>, Pretendo meu aprofundar no javascript e principalmente na poo do typescript</p>
 <p><strong>Low Level</strong>: Pretendo estudar assembly ou cobol porque eu quero aprender uma linguagem low level, passar pela experiencia que os antigos programadores passavam</p>
 
 # Quais tecnologias pretendo focar ?
 <p><strong>Terraform</strong>: Pretendo estudar terraform pois estou curioso para conhecer essa ferramenta</p>
 <p><strong>Docker</strong>: Ouvi muito falar dela e pretendo dar uma olhada de como se usar ela</p>
-<p><strong>Android Studio</strong>: Ela é extremamente importante para fazer apps mobile para android</p>
+
+# Quais Frameworks ou librarys pretendo focar ?
+<p><strong>Sass</strong>, Um framework web para css pretendo usar ele para facilitar o css</p>
+<p><strong>React e React Native</strong>, Quero focar para utilizar no meu dia a dia</p>
+<p><strong>Deno</strong>, Nada a declarar</p>
 
 # Formações...
 <p><strong>Completo</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
