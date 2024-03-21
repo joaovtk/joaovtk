@@ -19,9 +19,18 @@
   <li><strong>C#</strong>, Semelhante a java porém bastante poderosa</li>
 </ul>
 
+<p>
+  Tecnologias que já usei
+</p>
+<ul>
+  <li><strong>Discord API (Discord.js, hikari lightbulb, Discord.py, PyCord, NextCord, DPP, Concord)/strong>, https://discord.com/developers/docs/reference</li>
+  <li><strong>Lavalink (Lavaplayer)</strong>, https://github.com/lavalink-devs/Lavalink</li>
+  <li><strong>NextJS</strong>, https://nextjs.org/</li>
+</ul>
+
 # Quais linguagens eu estou focando ?
 <p><strong>Javascript/Typescript</strong>, Pretendo meu aprofundar no javascript e principalmente na poo do typescript</p>
-<p><strong>Low Level</strong>: Pretendo estudar assembly ou cobol porque eu quero aprender uma linguagem low level, passar pela experiencia que os antigos programadores passavam</p>
+<p><strong>PHP</strong>, Pretendo me aprofundar no php, uma linguagem injustiçada</p>
 
 # Quais tecnologias pretendo focar ?
 <p><strong>Terraform</strong>: Pretendo estudar terraform pois estou curioso para conhecer essa ferramenta</p>
