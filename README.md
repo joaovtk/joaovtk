@@ -1,4 +1,4 @@
-<img alt="followers" title="me siga no github por favor" src="https://img.shields.io/github/followers/joaovtk?color=236ad3&style=for-the-badge&logo=github&label=Me siga no github" style="display: inline;" />
+
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <p>Meu Objetivo é ter uma classificação A.</p>
 
@@ -50,3 +50,4 @@
 - Discord: @GoiabaTk
 - Twitter: <a href="https://twitter.com/hito_tk">hito_tk</a>
 - Linkedin <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-dos-reis-6b400b298/">João Vitor Soares dos Reis</a>
+<img alt="followers" title="joaovtk (João Vitor Soares Dos Reis)" src="https://img.shields.io/github/followers/joaovtk?color=236ad3&style=for-the-badge&logo=github&label=Me siga no github" style="display: inline;" />
