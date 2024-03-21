@@ -36,12 +36,12 @@
 <p><strong>React e React Native</strong>, Quero focar para utilizar no meu dia a dia</p>
 <p><strong>Deno</strong>, Nada a declarar</p>
 
-# Formações...
+# Quais são minhas formações ?
 <p><strong>Completo</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
 <p><strong>Desejando</strong>: Cursar Engenharia da Computação ou Analise de sistemas</p>
 
-# Meios de contato...
+# Como que contactar ?
 - Email: joaovitorsoaresdosreis3@gmail.com 
 - Email Secundario: weebdevjs@gmail.com
 - Discord: @GoiabaTk
