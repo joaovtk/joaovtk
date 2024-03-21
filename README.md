@@ -1,5 +1,4 @@
 <img alt="followers" title="me siga no github por favor" src="https://img.shields.io/github/followers/joaovtk?color=236ad3&style=for-the-badge&logo=github&label=Me siga no github" style="display: inline;" />
-<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <p>Meu Objetivo é ter uma classificação A.</p>
 
