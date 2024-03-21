@@ -1,6 +1,6 @@
 
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<p>Meu Objetivo é ter uma classificação A.</p>
+<p><strong>Meu Objetivo é ter uma classificação A</strong></p>
 
 # Olá pessoas sei que você são ansiosos então me apresentarei rapido...
 <p>Sou o João Vitor, Vitor, Goiaba, TkHito, muitos nomes né mas o que importa que é sou dev igual a você...</p>
