@@ -23,9 +23,9 @@
   Tecnologias que já usei
 </p>
 <ul>
-  <li><strong>Discord API (Discord.js, hikari lightbulb, Discord.py, PyCord, NextCord, DPP, Concord)/strong>, https://discord.com/developers/docs/reference</li>
-  <li><strong>Lavalink (Lavaplayer)</strong>, https://github.com/lavalink-devs/Lavalink</li>
-  <li><strong>NextJS</strong>, https://nextjs.org/</li>
+  <li><strong>Discord API (Discord.js, hikari lightbulb, Discord.py, PyCord, NextCord, DPP, Concord)/strong>, <a href="https://discord.com/developers/docs/reference">DiscordAPI</a></li>
+  <li><strong>Lavalink (Lavaplayer)</strong>, <a href="https://github.com/lavalink-devs/Lavalink">Lavalink</a></li>
+  <li><strong>NextJS</strong>, <a href="https://nextjs.org/">NextJS</a></li>
 </ul>
 
 # Quais linguagens eu estou focando ?
