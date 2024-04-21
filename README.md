@@ -1,5 +1,5 @@
 <img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/track/2484111631" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+
 # Olá pessoas sei que você são ansiosos então me apresentarei rapido...
 <p>Sou o João Vitor, Vitor, Goiaba, TkHito, muitos nomes né mas o que importa que é sou dev igual a você...</p>
 <p>Tenho 18 anos até a data de edição, programo desde os 13 anos então são 5 anos de experiencia como dev, Porém não paro de estudar pois o mercado muda bastate, e gosto de sempre estar atualizado.Tenho sonho de trabalhar com programação.Minha área de atuação é backend e as vezes frontend. Eu amo jogar, programar sou fissurado por desafios</p>
