@@ -22,6 +22,8 @@
   <li><strong>Discord API (Discord.js, hikari lightbulb, Discord.py, PyCord, NextCord, DPP, Concord)</strong>, <a href="https://discord.com/developers/docs/reference">DiscordAPI</a></li>
   <li><strong>Lavalink (Lavaplayer)</strong>, <a href="https://github.com/lavalink-devs/Lavalink">Lavalink</a></li>
   <li><strong>NextJS</strong>, <a href="https://nextjs.org/">NextJS</a></li>
+  <li><strong>ExpressJs</strong>, <a href="https://expressjs.com/pt-br/"></li>
+  <li><strong>Telegram Bot Api</strong>, <a href="[https://expressjs.com/pt-br/](https://core.telegram.org/bots/api)"></li>
 </ul>
 
 # Quais linguagens eu estou focando ?
