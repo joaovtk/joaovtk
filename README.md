@@ -28,7 +28,7 @@
 
 # Qual(is) Linguagen(s) Estou Focando ?
 <ul>
-  <li><strong>Java</strong>, Abadonei o javascript depois de 5 anos para eu evoluir como dev</li>
+  <li><strong>Java</strong>, Abadonei o nodejs depois de 5 anos para eu evoluir como dev</li>
 </ul>
 
 # Quais tecnologias pretendo focar ?
