@@ -44,7 +44,7 @@
   <li><strong>Git e Github</strong>, Ferramentas que uso para versionar o codigo</li>
 </ul>
 
-# Quais são minhas formações ?
+# Qual(is) são minhas formaçõe(s) ?
 <p><strong>Completo</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
 <p><strong>Desejando</strong>: Cursar Engenharia da Computação ou Analise de sistemas</p>
