@@ -26,9 +26,10 @@
   <li><strong>Telegram Bot Api</strong>, <a href="[https://expressjs.com/pt-br/](https://core.telegram.org/bots/api)"></li>
 </ul>
 
-# Quais linguagens eu estou focando ?
-<p><strong>Javascript/Typescript</strong>, Pretendo meu aprofundar no javascript e principalmente na poo do typescript</p>
-<p><strong>PHP</strong>, Pretendo me aprofundar no php, uma linguagem injustiçada</p>
+# Qual(is) Linguagen(s) Estou Focando ?
+<ul>
+  <li><strong>Java</strong>, Abadonei o javascript depois de 5 anos para eu evoluir como dev</li>
+</ul>
 
 # Quais tecnologias pretendo focar ?
 <p><strong>Terraform</strong>: Pretendo estudar terraform pois estou curioso para conhecer essa ferramenta</p>
