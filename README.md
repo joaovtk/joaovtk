@@ -31,14 +31,18 @@
   <li><strong>Java</strong>, Abadonei o nodejs depois de 5 anos para eu evoluir como dev</li>
 </ul>
 
-# Quais tecnologias pretendo focar ?
-<p><strong>Terraform</strong>: Pretendo estudar terraform pois estou curioso para conhecer essa ferramenta</p>
-<p><strong>Docker</strong>: Ouvi muito falar dela e pretendo dar uma olhada de como se usar ela</p>
+# Qual(is) Framework(s) ou library(s) Estou Focando ?
+<ul>
+  <li><strong>Spring</strong>, Biblioteca ou framwork para servidores web em java</li>
+</ul>
 
-# Quais Frameworks ou librarys pretendo focar ?
-<p><strong>Sass</strong>, Um framework web para css pretendo usar ele para facilitar o css</p>
-<p><strong>React e React Native</strong>, Quero focar para utilizar no meu dia a dia</p>
-<p><strong>Deno</strong>, Nada a declarar</p>
+# Qual(is) Ferramenta(s) uso no dia a dia ?
+<ul>
+  <li><strong>Intellij</strong>, IDE que uso para java</li>
+  <li><strong>VSCode</strong>, IDE que uso para diversas linguagens</li>
+  <li><strong>Insomnia</strong>, Programa para fazer requisoes em apis criadas por você ou externas</li>
+  <li><strong>Git e Github</strong>, Ferramentas que uso para versionar o codigo</li>
+</ul>
 
 # Quais são minhas formações ?
 <p><strong>Completo</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
