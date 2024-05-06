@@ -42,6 +42,7 @@
   <li><strong>VSCode</strong>, IDE que uso para diversas linguagens</li>
   <li><strong>Insomnia</strong>, Programa para fazer requisoes em apis criadas por você ou externas</li>
   <li><strong>Git e Github</strong>, Ferramentas que uso para versionar o codigo</li>
+  <li><strong>Figma</strong>, Ferramenta de protipagem</li>
 </ul>
 
 # Qual(is) são minhas formaçõe(s) ?
