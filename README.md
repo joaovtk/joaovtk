@@ -28,12 +28,12 @@
 
 # Qual(is) Linguagen(s) Estou Focando ?
 <ul>
-  <li><strong>Java</strong>, Abadonei o nodejs depois de 5 anos para eu evoluir como dev</li>
+  <li><strong>Ruby</strong>, Abadonei o nodejs e java depois de 5 anos para eu evoluir como dev</li>
 </ul>
 
 # Qual(is) Framework(s) ou library(s) Estou Focando ?
 <ul>
-  <li><strong>Spring</strong>, Biblioteca ou framwork para servidores web em java</li>
+  <li><strong>Ruby on Rails</strong>, Biblioteca ou framwork para servidores web em ruby</li>
 </ul>
 
 # Qual(is) Ferramenta(s) uso no dia a dia ?
