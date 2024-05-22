@@ -26,16 +26,6 @@
   <li><strong>Telegram Bot Api</strong>, <a href="[https://expressjs.com/pt-br/](https://core.telegram.org/bots/api)">Telegram</a></li>
 </ul>
 
-# Qual(is) Linguagen(s) Estou Focando ?
-<ul>
-  <li><strong>Ruby</strong>, Abadonei o nodejs e java depois de 5 anos para eu evoluir como dev</li>
-</ul>
-
-# Qual(is) Framework(s) ou library(s) Estou Focando ?
-<ul>
-  <li><strong>Ruby on Rails</strong>, Biblioteca ou framwork para servidores web em ruby</li>
-</ul>
-
 # Qual(is) Ferramenta(s) uso no dia a dia ?
 <ul>
   <li><strong>Intellij</strong>, IDE que uso para java</li>
