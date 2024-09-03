@@ -1,5 +1,4 @@
-<img src="https://myreadme.vercel.app/api/embed/joaovtk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovtk&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 # Olá pessoas sei que você são ansiosos então me apresentarei rapido...
 <p>Sou o João Vitor, Vitor, Goiaba, TkHito, muitos nomes né mas o que importa que é sou dev igual a você...</p>
 <p>Tenho 18 anos até a data de edição, programo desde os 13 anos então são 5 anos de experiencia como dev, Porém não paro de estudar pois o mercado muda bastate, e gosto de sempre estar atualizado.Tenho sonho de trabalhar com programação.Minha área de atuação é backend e as vezes frontend. Eu amo jogar, programar sou fissurado por desafios</p>
