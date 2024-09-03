@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovtk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovtk&theme=tokyonight" alt="mystreak"/>
 # Olá pessoas sei que você são ansiosos então me apresentarei rapido...
 <p>Sou o João Vitor, Vitor, Goiaba, TkHito, muitos nomes né mas o que importa que é sou dev igual a você...</p>
@@ -38,6 +38,8 @@
 # Qual(is) são minhas formaçõe(s) ?
 <p><strong>Completo</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovtk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <p><strong>Desejando</strong>: Cursar Ciência da Computação ou Analise de sistema</p>
 
 # Como que contactar ?
