@@ -15,6 +15,10 @@
   <li><strong>C#</strong>, Semelhante a java porém bastante poderosa</li>
 </ul>
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovtk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<p><strong>Desejando</strong>: Cursar Ciência da Computação ou Analise de sistema</p>
+
 <p>
   Tecnologias que já usei
 </p>
@@ -39,8 +43,6 @@
 <p><strong>Completo</strong>: 2° grau na Escola Estadual Bolivar Tinoco Mineiro</p>
 <p><strong>Cursando</strong>: Desenvolvimento de sistemas</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovtk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<p><strong>Desejando</strong>: Cursar Ciência da Computação ou Analise de sistema</p>
 
 # Como que contactar ?
 - Email: joaovitorsoaresdosreis3@gmail.com 
