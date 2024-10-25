@@ -47,8 +47,8 @@
 
 
 # Como que contactar ?
-- Email: joaovitorsoaresdosreis3@gmail.com 
-- Email Secundario: weebdevjs@gmail.com
+- Email: joaovtkinter@gmail.com 
+- Email Secundario: joaovitorsoaresdosreis3@gmail.com 
 - Discord: @GoiabaTk
 - Twitter: <a href="https://twitter.com/hito_tk">hito_tk</a>
 - Linkedin <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-dos-reis-6b400b298/">João Vitor Soares dos Reis</a>
