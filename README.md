@@ -53,3 +53,5 @@
 - Twitter: <a href="https://twitter.com/hito_tk">hito_tk</a>
 - Linkedin <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-dos-reis-6b400b298/">João Vitor Soares dos Reis</a>
 <img alt="followers" title="joaovtk (João Vitor Soares Dos Reis)" src="https://img.shields.io/github/followers/joaovtk?color=236ad3&style=for-the-badge&logo=github&label=Me siga no github" style="display: inline;" />
+
+<a href="https://buymeacoffee.com/joaovtk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
